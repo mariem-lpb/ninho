@@ -1,0 +1,19 @@
+h1{
+	overline
+	font-family: Jazz LET, sans-serif;
+	color: olive;
+    text-align: center;
+}
+h2{
+	font-family: Jazz LET, sans-serif;
+	color: black;
+}
+p {
+	background-color: #6CA26E;
+}
+
+body {
+	color: #13293D;
+	background-color: #EAEFBD;
+	font-family: serif;, sans-serif;
+}
